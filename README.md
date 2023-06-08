@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @sudo-gigi
-- 👀 I’m interested in all things IT
-- 🌱 I’m currently learning ethical hacking
-- 💞️ I’m looking to collaborate on hacking scripts, malware dev
+- 👋 Hi, I’m Glory Eziani
 - 📫 How to reach me gloryeziani@gmail.com
 
 <!---
